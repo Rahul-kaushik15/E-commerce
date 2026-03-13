@@ -1,16 +1,85 @@
-# React + Vite
+🛒 Forever - React E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forever E-Commerce Website is a modern and responsive online shopping interface built using React.js and Tailwind CSS. The application allows users to browse products, view detailed product information, select sizes, add items to the cart, and proceed to checkout with multiple payment options.
 
-Currently, two official plugins are available:
+The project demonstrates strong frontend development skills, including component-based architecture, client-side routing, responsive UI design, and state management using React Context API. The focus of the project is to build a clean, scalable, and user-friendly e-commerce interface similar to real-world online shopping platforms.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Features
 
-## React Compiler
+Responsive e-commerce website design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Modern UI built with Tailwind CSS
 
-## Expanding the ESLint configuration
+Product listing page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Product detail page with image gallery
+
+Size selection for products
+
+Add to cart functionality
+
+Cart item count indicator
+
+Cart total calculation
+
+Checkout / place order page
+
+Delivery information form
+
+Multiple payment options UI (Stripe, Razorpay, Cash on Delivery)
+
+Toast notifications for user actions
+
+Client-side routing using React Router
+
+Tech Stack
+Frontend
+
+React.js
+
+Tailwind CSS
+
+Vite
+
+Libraries
+
+React Router DOM
+
+React Toastify
+
+Development Tools
+
+Node.js
+
+npm
+
+Git & GitHub
+
+VS Code
+
+
+# 📸 Project Screenshots
+
+### Home Page
+![Home Page](src/screenshot/home.png)
+
+### Product Page
+![Product Page](src/screenshot/product.png)
+
+### Cart Page
+![Cart Page](src/screenshot/cart.png)
+
+### Collection Page
+![Collection Page](src/screenshot/collection.png)
+
+### Latest Products
+![Latest Products](src/screenshot/latest.png)
+
+### Place Order Page
+![Place Order](src/screenshot/placeOrder.png)
+
+### Orders Page
+![Orders Page](src/screenshot/orders.png)
+
+### Footer
+![Footer](src/screenshot/footer.png)
